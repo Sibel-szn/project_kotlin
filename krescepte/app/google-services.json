@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "839448579328",
+    "firebase_url": "https://login-35fd1-default-rtdb.firebaseio.com",
+    "project_id": "login-35fd1",
+    "storage_bucket": "login-35fd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839448579328:android:226fe4d5a1d588bb4bf7e5",
+        "android_client_info": {
+          "package_name": "com.abc.sibel.xyz.krescepte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839448579328-acgaqrkn7ksihjjkmj188e0muui1ukc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpZqJ5XwOlIrVDaFdgf7ejuWxXtBCHLQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839448579328-acgaqrkn7ksihjjkmj188e0muui1ukc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

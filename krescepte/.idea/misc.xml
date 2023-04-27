@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2555" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2385" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/drawable/ic_login.xml" value="0.2555" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/drawable/resim.xml" value="0.2555" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/activity_aktiviteler.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/activity_calisma_plani.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/activity_ders_programi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/activity_duyurular.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/activity_fragment_baglama.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/activity_kayit_ol.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/activity_notlar.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/activity_ogrenci_bilgi.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/activity_ogrenci_no.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/activity_yemek_listesi.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/fragment_duyurular.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/krescepte/app/src/main/res/layout/fragment_yemek_listesi.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
